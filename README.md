@@ -1,2 +1,4 @@
-# SIFT-NBNN
+![image](https://github.com/user-attachments/assets/1b6782bf-93fb-419a-afe8-64a31a3fefb0)# SIFT-NBNN
 Summer Research '25
+The increasing use of AI in all disciplines has highlighted the necessity for transparency and results that can be understood. This research utilizes the Scale-Invariant Feature Transform (SIFT) algorithm, Naive-Bayes Nearest Neighbor (NBNN) Classifier, and aims to provides explainability using a probability density function (PDF). The SIFT algorithm extracts essential features, known as keypoints and descriptors, from a query image. The notable features are then classified based on the likelihood of the feature occurring in each class, due to the Naive-Bayes Nearest Neighbor method. Lastly, a probability density function is applied to provide an estimation of feature relevance and to which class the image belongs to. Our model demonstrates that this approach can provide transparency and proper explanation of the AI model's decision making. The forthcoming objective of this project is to be implicated in the discipline of healthcare through way of wound imaging.
+
